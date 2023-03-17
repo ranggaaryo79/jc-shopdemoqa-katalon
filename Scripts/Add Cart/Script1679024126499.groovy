@@ -37,5 +37,3 @@ WebUI.verifyTextPresent('2 × “pink drop shoulder oversized t shirt” have be
 
 WebUI.delay(3)
 
-WebUI.closeBrowser()
-
